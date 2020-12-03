@@ -1,0 +1,10 @@
+C:\Users\Wasuthornx\source\repos\QuestEditor\QuestEditor\obj\Debug\QuestEditor.csprojAssemblyReference.cache
+C:\Users\Wasuthornx\source\repos\QuestEditor\QuestEditor\obj\Debug\QuestEditor.Form1.resources
+C:\Users\Wasuthornx\source\repos\QuestEditor\QuestEditor\obj\Debug\QuestEditor.Properties.Resources.resources
+C:\Users\Wasuthornx\source\repos\QuestEditor\QuestEditor\obj\Debug\QuestEditor.csproj.GenerateResource.cache
+C:\Users\Wasuthornx\source\repos\QuestEditor\QuestEditor\obj\Debug\QuestEditor.csproj.CoreCompileInputs.cache
+C:\Users\Wasuthornx\source\repos\QuestEditor\QuestEditor\bin\Debug\QuestEditor.exe.config
+C:\Users\Wasuthornx\source\repos\QuestEditor\QuestEditor\bin\Debug\QuestEditor.exe
+C:\Users\Wasuthornx\source\repos\QuestEditor\QuestEditor\bin\Debug\QuestEditor.pdb
+C:\Users\Wasuthornx\source\repos\QuestEditor\QuestEditor\obj\Debug\QuestEditor.exe
+C:\Users\Wasuthornx\source\repos\QuestEditor\QuestEditor\obj\Debug\QuestEditor.pdb
